@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NOTE on Wuzixi Blog</title>
-    <link>https://wuzixi1994.github.io/blog/categories/note/</link>
+    <link>https://wuzixi1994.github.io/myBlog/categories/note/</link>
     <description>Recent content in NOTE on Wuzixi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://wuzixi1994.github.io/blog/categories/note/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wuzixi1994.github.io/myBlog/categories/note/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Example Post</title>
-      <link>https://wuzixi1994.github.io/blog/post/111/</link>
+      <link>https://wuzixi1994.github.io/myBlog/post/111/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wuzixi1994.github.io/blog/post/111/</guid>
+      <guid>https://wuzixi1994.github.io/myBlog/post/111/</guid>
       <description></description>
     </item>
     
