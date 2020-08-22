@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wuzixi Blog</title>
-    <link>https://wuzixi1994.github.io/myBlog/categories/</link>
+    <link>https://www.wuzixi.xyz/categories/</link>
     <description>Recent content in Categories on Wuzixi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://wuzixi1994.github.io/myBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.wuzixi.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NOTE</title>
-      <link>https://wuzixi1994.github.io/myBlog/categories/note/</link>
+      <link>https://www.wuzixi.xyz/categories/note/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wuzixi1994.github.io/myBlog/categories/note/</guid>
+      <guid>https://www.wuzixi.xyz/categories/note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TECH</title>
-      <link>https://wuzixi1994.github.io/myBlog/categories/tech/</link>
+      <link>https://www.wuzixi.xyz/categories/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wuzixi1994.github.io/myBlog/categories/tech/</guid>
+      <guid>https://www.wuzixi.xyz/categories/tech/</guid>
       <description></description>
     </item>
     
